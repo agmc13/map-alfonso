@@ -1,0 +1,35 @@
+commit b4ae695ce33f57b569ecc14446af2be90658204a
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Oct 17 16:42:07 2017 +0200
+
+    mapa con archivos js, css y html separados
+
+commit e8ac02590d37580d57ccb66ece3625767316f8a2
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Sep 26 16:49:01 2017 +0200
+
+    estilo para el mapa con capas
+
+commit 1318506c0a9a46cf4e5dd3349f3aedf07223d8f3
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Sep 26 16:44:27 2017 +0200
+
+    proyecto con mapa creado con dos capas
+
+commit 2acf9f1bb0c550e1dc689a292352362e695c5234
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Sep 26 16:23:52 2017 +0200
+
+    proyecto sin cambios realizados
+
+commit a7453e59cad7d837abf804f4614b60ee8a07d6f8
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Sep 26 16:11:07 2017 +0200
+
+    proyecto con mapa creado sin capas
+
+commit 6eab5bc17a67d16c6176cc4152ffc7657f1decc2
+Author: alfonso <alfonsomorenocordoba@gmail.com>
+Date:   Tue Sep 26 12:18:27 2017 +0200
+
+    estructura basica leaflet
